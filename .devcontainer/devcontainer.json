@@ -1,0 +1,13 @@
+{
+    "name": "Playground",
+    "image": "mcr.microsoft.com/vscode/devcontainers/dotnet:7.0",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "Ionide.Ionide-fsharp",
+          "ms-dotnettools.csharp",
+          "ms-dotnettools.dotnet-interactive-vscode"
+        ]
+      }
+    }
+}
